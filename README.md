@@ -1,3 +1,6 @@
+https://docs.obsidian.md/Plugins/Getting+started/Build+a+plugin
+hyper > .obsidian/plugins > ls > whatever folder that is > npm run dev
+
 # Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
